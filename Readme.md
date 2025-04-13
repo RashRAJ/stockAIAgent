@@ -19,7 +19,7 @@ A Python agent built with Google's Agent Development Kit (ADK) that provides rea
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/us-stock-market-agent.git
+   git clonehttps://github.com/RashRAJ/stockAIAgent.git
    cd us-stock-market-agent
    ```
 
